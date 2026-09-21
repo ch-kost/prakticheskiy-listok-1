@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "python",
+    "jupyter.askForKernelRestart": false,
+    "workbench.startupEditor": "none"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "jupyter.askForKernelRestart": false,
+  "notebook.output.textLineLimit": 200
+}
